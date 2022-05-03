@@ -1,0 +1,4 @@
+__pycache__/*
+byte/__pycache__/*
+byte.egg-info/*
+.vscode/*
