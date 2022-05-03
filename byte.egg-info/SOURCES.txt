@@ -1,9 +1,0 @@
-setup.py
-byte/__init__.py
-byte/byte.py
-byte.egg-info/PKG-INFO
-byte.egg-info/SOURCES.txt
-byte.egg-info/dependency_links.txt
-byte.egg-info/entry_points.txt
-byte.egg-info/requires.txt
-byte.egg-info/top_level.txt
