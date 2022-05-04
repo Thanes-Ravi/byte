@@ -1,6 +1,6 @@
-name: byte
+name: byte-cli
 version: '1.0'
-summary: byte
+summary: byte-cli
 description: |
   Encrypt and decrypt your file with this cli tool
 confinement: devmode
