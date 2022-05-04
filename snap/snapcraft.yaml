@@ -1,0 +1,17 @@
+name: byte
+version: '1.0'
+summary: byte
+description: |
+  Encrypt and decrypt your file with this cli tool
+confinement: devmode
+base: core18
+
+parts:
+  byte:
+    plugin: python
+    python-version: python3
+    source: https://github.com/Thanes-Ravi/byte.git
+
+apps:
+  byte:
+    command: byte
