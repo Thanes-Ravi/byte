@@ -3,7 +3,7 @@ version: '1.0'
 summary: byte-cli
 description: |
   Encrypt and decrypt your file with this cli tool
-confinement: devmode
+confinement: classic
 base: core18
 
 parts:
