@@ -5,6 +5,7 @@ description: |
   Encrypt and decrypt your file with this cli tool
 base: core18
 
+
 parts:
   byte:
     plugin: python
@@ -14,3 +15,5 @@ parts:
 apps:
   byte:
     command: byte
+    plugs:
+      - home
